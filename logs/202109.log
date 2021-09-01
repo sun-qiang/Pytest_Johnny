@@ -1,0 +1,14 @@
+INFO -	2021-09-01 15:00:33,058 -	[webpage.py:33] -	get_url/webpage -	打开网页：https://www.baidu.com
+INFO -	2021-09-01 15:00:33,752 -	[webpage.py:65] -	input_text/webpage -	输入文本：selenium
+INFO -	2021-09-01 15:00:35,825 -	[webpage.py:71] -	is_click/webpage -	点击元素：('id', 'su')
+INFO -	2021-09-01 15:00:49,789 -	[test_search.py:28] -	test_001/test_search -	<re.Match object; span=(561, 569), match='selenium'>
+INFO -	2021-09-01 15:00:53,448 -	[webpage.py:33] -	get_url/webpage -	打开网页：https://www.baidu.com
+INFO -	2021-09-01 15:00:54,083 -	[webpage.py:65] -	input_text/webpage -	输入文本：selenium
+INFO -	2021-09-01 15:00:55,199 -	[test_search.py:36] -	test_002/test_search -	['selenium', 'selenium是什么意思', 'selenium怎么读', 'selenium定位元素的方法', 'selenium自动化测试框架', 'selenium面试题', 'selenium硒片的功效', 'selenium自动化测试', 'selenium输入文本', 'selenium隐式等待']
+INFO -	2021-09-01 15:01:46,862 -	[webpage.py:33] -	get_url/webpage -	打开网页：https://www.baidu.com
+INFO -	2021-09-01 15:01:47,557 -	[webpage.py:65] -	input_text/webpage -	输入文本：selenium
+INFO -	2021-09-01 15:01:49,666 -	[webpage.py:71] -	is_click/webpage -	点击元素：('id', 'su')
+INFO -	2021-09-01 15:01:59,081 -	[test_search.py:28] -	test_001/test_search -	<re.Match object; span=(561, 569), match='selenium'>
+INFO -	2021-09-01 15:01:59,835 -	[webpage.py:33] -	get_url/webpage -	打开网页：https://www.baidu.com
+INFO -	2021-09-01 15:02:00,489 -	[webpage.py:65] -	input_text/webpage -	输入文本：selenium
+INFO -	2021-09-01 15:02:01,598 -	[test_search.py:36] -	test_002/test_search -	['selenium', 'selenium是什么意思', 'selenium怎么读', 'selenium定位元素的方法', 'selenium自动化测试框架', 'selenium面试题', 'selenium硒片的功效', 'selenium自动化测试', 'selenium输入文本', 'selenium隐式等待']
