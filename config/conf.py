@@ -23,14 +23,14 @@ class ConfigManager(object):
     }
     # 邮件信息
     EMAIL_INFO = {
-        'username': 'qiang.sun@rakuten.com',  # 切换成你自己的地址
-        'password': '5tgb%TGB',
+        'username': 'as8818362@qq.com',  # 切换成你自己的地址
+        'password': '123456',
         'smtp_host': 'smtp.outlook.com',
         'smtp_port': 465
     }
     # 收件人
     ADDRESSEE = [
-        'qiang.sun@rakuten.com',
+        'as8818362@qq.com',
     ]
 
     @property
