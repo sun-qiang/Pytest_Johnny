@@ -24,7 +24,7 @@ class ConfigManager(object):
     # 邮件信息
     EMAIL_INFO = {
         'username': 'as8818362@qq.com',  # 切换成你自己的地址
-        'password': '123456',
+        'password': 'asd123456789',
         'smtp_host': 'smtp.outlook.com',
         'smtp_port': 465
     }
